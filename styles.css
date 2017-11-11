@@ -16,6 +16,14 @@ header {
     height: 100px;
     display: flex;
     justify-content: space-between;
+    align-items: center;
+}
+
+.headerLeft {
+    height: 100px;
+    width: 60%;
+    display: flex;
+    align-items: center;
 }
 
 nav {
@@ -31,6 +39,12 @@ nav {
     float: left;
     padding: 10px;
     margin-left: 12px;
+}
+
+#siteTitle {
+    margin: 0;
+    font-size: 15px;
+
 }
 
 .banner img {
