@@ -44,7 +44,10 @@ nav {
 #siteTitle {
     margin: 0;
     font-size: 15px;
+}
 
+#siteTitle h1 {
+    display: flex;
 }
 
 .banner img {
